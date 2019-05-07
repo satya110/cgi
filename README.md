@@ -1,1 +1,1 @@
-# cgi
+#vsn-cgi
